@@ -3,13 +3,6 @@ people_title: People
 philosophy_title: Pourquoi «Hestia»?
 layout: about
 permalink: /fr/about/index.html
-title: About
-lead: |+
-  **Nous sommes Hestia.ai**
-
-  L'entreprise tech qui change les normes de la tech
-
-lead_image: /assets/media/hestia_hero.png
 story_title: À propos
 people:
   - name: Paul-Olivier Dehaye
@@ -54,6 +47,13 @@ people:
     twitter: https://twitter.com/alexbfree
     linkedin: https://www.linkedin.com/in/alexbowyer/
 inverse: true
+title: About
+lead: |+
+  **Nous sommes Hestia.ai**
+
+  L'entreprise tech qui change les normes de la tech
+
+lead_image: /assets/media/hestia_hero.png
 lead_image_caption: ""
 story: >-
   Hestia.ai est une société de conseil et de formation en expertise des données
@@ -84,9 +84,8 @@ philosophy: >-
   les données et leur analyse, des outils puissants qui ont maintenant échappé à
   notre contrôle. Hestia.ai recentre notre attention sur ce feu, pour que nous
   puissions lui donner du sens ensemble, et nous assurer qu'il nous serve plutôt
-  qu'il ne nous expose à de nouveaux dangers.\
+  qu'il ne nous expose à de nouveaux dangers.
 
-  \
 
   Cette interprétation est aussi racontée par [Stephen Fry dans le Graham Norton Show](https://www.youtube.com/watch?v=9KK2OBZIcRw).
 ---

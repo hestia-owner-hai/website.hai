@@ -3,12 +3,6 @@ people_title: People
 philosophy_title: Why “Hestia”?
 layout: about
 permalink: /en/about/index.html
-title: About
-lead: |-
-  **We are Hestia.ai**
-
-  The tech company that's changing tech norms
-lead_image: /assets/media/hestia_hero.png
 story_title: About Us
 people:
   - name: Paul-Olivier Dehaye
@@ -50,6 +44,12 @@ people:
     twitter: https://twitter.com/alexbfree
     linkedin: https://www.linkedin.com/in/alexbowyer/
 inverse: true
+title: About
+lead: |-
+  **We are Hestia.ai**
+
+  The tech company that's changing tech norms
+lead_image: /assets/media/hestia_hero.png
 lead_image_caption: ""
 story: >-
   Hestia.ai is a data expertise consultancy and training company based in
