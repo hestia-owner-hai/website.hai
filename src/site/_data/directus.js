@@ -17,7 +17,6 @@ async function fetchUseCases(directus) {
   }
   
   const data = response.data
-  console.log(data)
   const results = {
     ...data,
     translations: mapTranslationObject(data.translations),
@@ -35,7 +34,7 @@ async function fetchUseCases(directus) {
 module.exports = async function ({ directus }) {
   console.log('Fetching Use cases: \n')
   const usecases = await fetchUseCases(directus)
-  console.log('result: ', usecases, '\n')
+  // console.log('result: ', usecases, '\n')
 
   return {
     usecases
