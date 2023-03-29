@@ -3,6 +3,12 @@ people_title: People
 philosophy_title: Why “Hestia”?
 layout: about
 permalink: /en/about/index.html
+title: About
+lead: |-
+  **We are Hestia.ai**
+
+  The tech company that's changing tech norms
+lead_image: /assets/media/hestia_hero.png
 story_title: About Us
 people:
   - name: Paul-Olivier Dehaye
@@ -29,22 +35,22 @@ people:
       organisations, including two early-stage tech startups.
     image: /assets/media/andreas-kündig-c-hestia.ai-c.jpg
     linkedin: https://www.linkedin.com/in/andreas-k%C3%BCndig-73b422b/
-  - name: Alex Bowyer
-    description: Alex Bowyer is a computer scientist, UX designer and researcher.
-      After a software engineering career in small and large tech companies in
-      the UK, Australia and Canada, a time as a web scientist with Zooniverse,
-      and a PhD from Newcastle University in *Human Data Relations*, Alex joined
-      Hestia in June 2021 as an **experience designer and R&D strategist**.
-    image: /assets/media/alex-bowyer-li-photo-cropped.jpg
-    twitter: https://twitter.com/alexbfree
-    linkedin: https://www.linkedin.com/in/alexbowyer/
+  - name: François Quellec
+    image: /assets/media/francois-quellec-cropped.jpg
+    description: François Quellec is a computer scientist, graduated from EPFL with
+      a specialization in Data Science. He started working in data visualization
+      for Swiss newspapers before starting to work at Hestia in September 2021.
+      He likes to find new patterns in data and make complex topics
+      understandable to a wide audience.
+    linkedin: https://www.linkedin.com/in/fran%C3%A7ois-quellec-478008a1/
+  - description: Mirko De Bortoli is a recent graduate in mathematics of the
+      University of Neuchâtel, Switzerland. He first joined us as a trainee,
+      working on applying category theory to our data analysis frameworks. He is
+      passionate about science, ethics, sports and bad jokes.
+    name: Mirko De Bortoli
+    image: /assets/media/mdb.jpeg
+    linkedin: https://www.linkedin.com/in/mirko-de-bortoli-b08a21249
 inverse: true
-title: About
-lead: |-
-  **We are Hestia.ai**
-
-  The tech company that's changing tech norms
-lead_image: /assets/media/hestia_hero.png
 lead_image_caption: ""
 story: >-
   Hestia.ai is a data expertise consultancy and training company based in

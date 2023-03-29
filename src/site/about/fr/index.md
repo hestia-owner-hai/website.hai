@@ -3,6 +3,13 @@ people_title: People
 philosophy_title: Pourquoi «Hestia»?
 layout: about
 permalink: /fr/about/index.html
+title: About
+lead: |+
+  **Nous sommes Hestia.ai**
+
+  L'entreprise tech qui change les normes de la tech
+
+lead_image: /assets/media/hestia_hero.png
 story_title: À propos
 people:
   - name: Paul-Olivier Dehaye
@@ -30,24 +37,24 @@ people:
       démarrage.
     image: /assets/media/andreas-kündig-c-hestia.ai-c.jpg
     linkedin: https://www.linkedin.com/in/andreas-k%C3%BCndig-73b422b/
-  - name: Alex Bowyer
-    description: Alex Bowyer est informaticien, designer et chercheur. Après une
-      carrière d'ingénieur logiciel dans de petites et grandes entreprises
-      technologiques au Royaume-Uni, en Australie et au Canada, un temps en tant
-      que scientifique Web chez Zooniverse, et un doctorat de l'Université de
-      Newcastle en *Relations Humaines avec les Données*, Alex a rejoint Hestia
-      en juin 2021 en tant que **designer d'expérience et stratège R&D**.
-    image: /assets/media/alex-bowyer-li-photo-cropped.jpg
-    twitter: https://twitter.com/alexbfree
-    linkedin: https://www.linkedin.com/in/alexbowyer/
+  - name: François Quellec
+    description: François Quellec est un informaticien, diplômé de l'EPFL avec une
+      spécialisation en Data Science. Il a commencé à travailler dans la
+      visualisation de données pour des journaux suisses avant de commencer à
+      travailler chez Hestia en septembre 2021. Il aime trouver de nouveaux
+      patterns dans les données et rendre des sujets complexes compréhensibles
+      par le plus grand nombre.
+    image: /assets/media/francois-quellec-cropped.jpg
+    linkedin: https://www.linkedin.com/in/fran%C3%A7ois-quellec-478008a1/
+  - name: Mirko De Bortoli
+    description: Mirko De Bortoli est un récent diplômé en mathématiques de
+      l'Université de Neuchâtel, en Suisse. Il nous a rejoints en tant que
+      stagiaire, travaillant sur l'application de la théorie des catégories à
+      nos cadres d'analyse de données. Il est passionné par la science,
+      l'éthique, le sport et les mauvaises blagues.
+    image: /assets/media/mdb.jpeg
+    linkedin: https://www.linkedin.com/in/mirko-de-bortoli-b08a21249
 inverse: true
-title: About
-lead: |+
-  **Nous sommes Hestia.ai**
-
-  L'entreprise tech qui change les normes de la tech
-
-lead_image: /assets/media/hestia_hero.png
 lead_image_caption: ""
 story: >-
   Hestia.ai est une société de conseil et de formation en expertise des données
