@@ -13,7 +13,7 @@ lead: "Dernière mise à jour: Juillet 2021"
 
 ## Droits d'auteur
 
-Tout le contenu (marques, noms, titres, logos, images, graphiques, textes et autres éléments) de ce site est protégé par le droit d'auteur. Toute reproduction est donc soumise à l'accord écrit de l'auteur.
+Tout le contenu (marques, noms, titres, logos, images, graphiques, textes et autres éléments) de ce site est protégé par le droit d'auteur. Toute reproduction est donc soumise à l'accord écrit de: l'auteur.
 
 Les différents contenus du site ne peuvent être reproduits librement sans l'indication de la source et l'autorisation explicite des auteurs. De même, les pages du site Hestia.ai ne doivent pas être imbriquées à l'intérieur des pages d'un autre site.
 
